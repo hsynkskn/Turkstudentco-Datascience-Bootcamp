@@ -46,6 +46,8 @@ Bitir
 
 4-) Bir dizideki elemanların tekrar edip etmediğini kontrol eden programın puseido kodu
 
+Basla
+
 Diziyi kullanıcıdan al
 Dizi = input()
 
@@ -67,3 +69,4 @@ Eğer TekrarEden == Doğru ise
 Aksi takdirde
     Yaz("Dizide tekrar eden eleman yok")
 
+Bitir
