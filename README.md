@@ -26,9 +26,12 @@ Bitir
 3-)  Kullanıcıdan alınan bir sayının  asal olup olmadığını bulma
 Basla
 
-Lütfen birbsayınhiriniz! \n
+Lütfen birbsayınhiriniz! 
+
 Sayi =
+
 Eğer Sayı <= 1 ise
+
     Yaz("Asal değil")
     Bitir
 Asal = Doğru
